@@ -1,2 +1,2 @@
-# Ejej6.1
-Ejercicio de 6.1 que hicimos en clase
+# Ejej6.4
+Ejercicio de 6.4 que hicimos en clase
